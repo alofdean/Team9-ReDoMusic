@@ -1,92 +1,138 @@
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\appsettings.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.staticwebassets.runtime.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.exe
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.deps.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.runtimeconfig.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Npgsql.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Domain.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Domain.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.AssemblyReference.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.AssemblyInfoInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.AssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.CoreCompileInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.RazorAssemblyInfo.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.RazorAssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.ReDoMusic.MVC.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\bundle\ReDoMusic.MVC.styles.css
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\projectbundle\ReDoMusic.MVC.bundle.scp.css
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.CopyComplete
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\refint\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.genruntimeconfig.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ref\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\appsettings.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.staticwebassets.runtime.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.exe
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.deps.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.runtimeconfig.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.MVC.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Npgsql.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Domain.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\bin\Debug\net7.0\ReDoMusic.Domain.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.AssemblyReference.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.AssemblyInfoInputs.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.AssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.CoreCompileInputs.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.RazorAssemblyInfo.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.RazorAssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.ReDoMusic.MVC.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ReDoMusic.MVC.props
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\bundle\ReDoMusic.MVC.styles.css
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\scopedcss\projectbundle\ReDoMusic.MVC.bundle.scp.css
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.csproj.CopyComplete
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\refint\ReDoMusic.MVC.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ReDoMusic.MVC.genruntimeconfig.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Presentation\ReDoMusic.MVC\obj\Debug\net7.0\ref\ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.staticwebassets.runtime.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.exe
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.deps.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.runtimeconfig.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.AssemblyReference.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfoInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CoreCompileInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.ReDoMusic.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/bundle/ReDoMusic.MVC.styles.css
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/projectbundle/ReDoMusic.MVC.bundle.scp.css
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CopyComplete
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/refint/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.genruntimeconfig.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ref/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.staticwebassets.runtime.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.exe
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.deps.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.runtimeconfig.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.AssemblyReference.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfoInputs.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CoreCompileInputs.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.ReDoMusic.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ReDoMusic.MVC.props
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/bundle/ReDoMusic.MVC.styles.css
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/projectbundle/ReDoMusic.MVC.bundle.scp.css
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CopyComplete
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/refint/ReDoMusic.MVC.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.genruntimeconfig.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ref/ReDoMusic.MVC.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.AssemblyReference.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfoInputs.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.AssemblyInfo.cs
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CoreCompileInputs.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.RazorAssemblyInfo.cs
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/refint/ReDoMusic.MVC.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.pdb
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.Development.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/appsettings.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.staticwebassets.runtime.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.deps.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.runtimeconfig.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.MVC.pdb
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Humanizer.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/System.CodeDom.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.ReDoMusic.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.ReDoMusic.MVC.props
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ReDoMusic.MVC.props
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ReDoMusic.MVC.props
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/bundle/ReDoMusic.MVC.styles.css
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/scopedcss/projectbundle/ReDoMusic.MVC.bundle.scp.css
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.csproj.CopyComplete
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ReDoMusic.MVC.genruntimeconfig.cache
+/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/Debug/net7.0/ref/ReDoMusic.MVC.dll

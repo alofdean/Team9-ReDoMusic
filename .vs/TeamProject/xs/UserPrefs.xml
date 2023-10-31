@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C1EEAABF-CCAA-48BD-AE17-833677309D46}|https">
+  <MonoDevelop.Ide.ItemProperties.ReDoMusicApp.Presentation.ReDoMusic.MVC PreferredExecutionTarget="/Applications/Arc.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/ReDoMusic.MVC/Controllers/BrandController.cs">
+    <Files>
+      <File FileName="Infrastructure/ReDoMusic.Persistence/PrivateInformations.json" Line="1" Column="1" />
+      <File FileName="Presentation/ReDoMusic.MVC/Controllers/InstrumentController.cs" Line="36" Column="108" />
+      <File FileName="Infrastructure/ReDoMusic.Persistence/Configurations.cs" Line="15" Column="138" />
+      <File FileName="Presentation/ReDoMusic.MVC/Controllers/BrandController.cs" Line="18" Column="51" />
+      <File FileName="Presentation/ReDoMusic.MVC/Controllers/CategoryController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TeamProject">
+            <Node name="ReDoMusicApp">
+              <Node name="Core" expanded="True">
+                <Node name="ReDoMusic.Domain" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Presentation" expanded="True">
+                <Node name="ReDoMusic.MVC" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="BrandController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

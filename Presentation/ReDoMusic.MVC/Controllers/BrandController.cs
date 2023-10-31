@@ -41,6 +41,12 @@ namespace ReDoMusic.MVC.Controllers
         }
 
         [HttpGet]
+        public IActionResult DeleteBrand()
+        {
+            return View();
+        }
+
+        [HttpPost]
         public IActionResult DeleteBrand(string id)
         {
             var brand = _context.Brands.Where(x => x.Id == Guid.Parse(id)).FirstOrDefault();

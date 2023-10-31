@@ -1316,34 +1316,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\": {}
+    "/Users/alofdean/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Presentation\\ReDoMusic.MVC\\ReDoMusic.MVC.csproj",
+      "projectUniqueName": "/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/ReDoMusic.MVC.csproj",
       "projectName": "ReDoMusic.MVC",
-      "projectPath": "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Presentation\\ReDoMusic.MVC\\ReDoMusic.MVC.csproj",
-      "packagesPath": "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Presentation\\ReDoMusic.MVC\\obj\\",
+      "projectPath": "/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/ReDoMusic.MVC.csproj",
+      "packagesPath": "/Users/alofdean/.nuget/packages/",
+      "outputPath": "/Users/alofdean/Team9-ReDoMusic/Presentation/ReDoMusic.MVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zahide Düşgün\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alofdean/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Infrastructure\\ReDoMusic.Persistence\\ReDoMusic.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Infrastructure\\ReDoMusic.Persistence\\ReDoMusic.Persistence.csproj"
+            "/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/ReDoMusic.Persistence.csproj": {
+              "projectPath": "/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/ReDoMusic.Persistence.csproj"
             }
           }
         }
@@ -1384,7 +1384,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
       }
     }
   }

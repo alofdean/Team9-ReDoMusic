@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "5yM2jB2BUBFbkjD9D5Sztgeqkuku6A4t9MM8smlJME5lfoy5064sUM0NaogqUmr62yp2Pt+vW185MwPiR1WPtg==",
+  "dgSpecHash": "SmEzFt026fAxqhoUUi4qW6WBNgzRJ7DulanASD39DV3YpXKRqWDOTBysAKbYsYzyoZs0YDVEgpWqX1zRwV85Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zahide Düşgün\\Desktop\\TeamProject\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
+  "projectFilePath": "/Users/alofdean/Team9-ReDoMusic/Core/ReDoMusic.Domain/ReDoMusic.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.12\\microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "/Users/alofdean/.nuget/packages/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.12/microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.12/microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/alofdean/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

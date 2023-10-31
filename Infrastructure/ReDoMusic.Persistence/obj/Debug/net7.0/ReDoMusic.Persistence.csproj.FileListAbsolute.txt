@@ -1,49 +1,66 @@
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\bin\Debug\net7.0\ReDoMusic.Persistence.deps.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\bin\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\bin\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\bin\Debug\net7.0\ReDoMusic.Domain.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\bin\Debug\net7.0\ReDoMusic.Domain.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.AssemblyReference.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfoInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CopyComplete
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\refint\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistance\obj\Debug\net7.0\ref\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.deps.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.AssemblyReference.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfoInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CopyComplete
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\refint\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ref\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.runtimeconfig.json
-C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ReDoMusic\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.genruntimeconfig.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.deps.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.runtimeconfig.json
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.AssemblyReference.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfoInputs.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.AssemblyInfo.cs
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.csproj.CopyComplete
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\refint\ReDoMusic.Persistence.dll
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.pdb
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ReDoMusic.Persistence.genruntimeconfig.cache
-C:\Users\Zahide Düşgün\Desktop\TeamProject\Infrastructure\ReDoMusic.Persistence\obj\Debug\net7.0\ref\ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/bin/Debug/net7.0/ReDoMusic.Persistence.deps.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/bin/Debug/net7.0/ReDoMusic.Domain.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.AssemblyReference.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfoInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CopyComplete
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/refint/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistance/obj/Debug/net7.0/ref/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.deps.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.AssemblyReference.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfoInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CopyComplete
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/refint/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ref/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.runtimeconfig.json
+C:/Users/Zahide Düşgün/Desktop/YetGenAkbankBootcamp/ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.genruntimeconfig.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.deps.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.runtimeconfig.json
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.AssemblyReference.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfoInputs.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfo.cs
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CopyComplete
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/refint/ReDoMusic.Persistence.dll
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.pdb
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.genruntimeconfig.cache
+C:/Users/Zahide Düşgün/Desktop/TeamProject/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ref/ReDoMusic.Persistence.dll
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.deps.json
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.runtimeconfig.json
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.dll
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Persistence.pdb
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.dll
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/bin/Debug/net7.0/ReDoMusic.Domain.pdb
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.AssemblyReference.cache
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfoInputs.cache
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.AssemblyInfo.cs
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CoreCompileInputs.cache
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.csproj.CopyComplete
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.dll
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/refint/ReDoMusic.Persistence.dll
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.pdb
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ReDoMusic.Persistence.genruntimeconfig.cache
+/Users/alofdean/Team9-ReDoMusic/Infrastructure/ReDoMusic.Persistence/obj/Debug/net7.0/ref/ReDoMusic.Persistence.dll
